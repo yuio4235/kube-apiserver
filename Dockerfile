@@ -1,3 +1,3 @@
-FROM gcr.io/google-containers/kube-apiserver-amd64:v1.17.1
+FROM gcr.io/google-containers/kube-apiserver:v1.18.3
 
 MAINTAINER Danny.Zhang
